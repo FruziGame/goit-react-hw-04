@@ -1,0 +1,17 @@
+.btn {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    border: 0px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.loading {
+    display: flex;
+   justify-content: center;
+  }
+  
